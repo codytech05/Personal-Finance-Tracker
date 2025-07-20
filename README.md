@@ -21,8 +21,10 @@ This project demonstrates how to build a **Personal Finance Tracker** using SQL 
 
 ---
 
-## ER- Diagram
-   Diagram.png
+## 📐 ER Diagram
+![ER Diagram](Diagram.png)
+
+---
 
 ## 🧱 Database Schema
 
