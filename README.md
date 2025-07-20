@@ -59,7 +59,7 @@ GROUP BY u.name, month;
 
 ---
 
-📁 Project Structure
+## 📁 Project Structure
 finance-tracker-project/
 │
 ├── finance_tracker.sql               # Full SQL script (schema + data + queries)
@@ -69,8 +69,8 @@ finance-tracker-project/
 
 ---
 
-📌 Conclusion
-This project showcases essential SQL skills including:
+## 📌 Conclusion
+### This project showcases essential SQL skills including:
 - Schema design
 - Relational joins
 - Aggregate functions
